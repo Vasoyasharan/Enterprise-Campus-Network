@@ -1,3 +1,7 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/Vasoyasharan/Enterprise-Campus-Network?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/Vasoyasharan/Enterprise-Campus-Network.svg?cache=remove)
+
+
 # **Enterprise Multi-Floor, Multi-Department Network Infrastructure**
 
 **Technologies: VLAN | OSPF | Inter-VLAN Routing | EtherChannel | Site-to-Site IPsec VPN | NAT | L3 Switching**
